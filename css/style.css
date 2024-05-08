@@ -21,7 +21,6 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Saira Extra Condensed', serif;
     font-weight: 700;
     text-transform: uppercase;
     color: #343a40;
@@ -49,7 +48,6 @@ a:active {
 .subheading {
     text-transform: uppercase;
     font-weight: 500;
-    font-family: 'Saira Extra Condensed', serif;
     font-size: 1.35rem;
 }
 
@@ -218,6 +216,7 @@ a:active {
       background-repeat: no-repeat;
   }
 
+
 /*==================================================
                     EXPERIENCE
 ====================================================*/  
@@ -226,7 +225,6 @@ a:active {
   }
 
   #experience .card h4{
-    font-family: 'Roboto Condensed', sans-serif;
     text-transform: none;
     color:#555;
   }
@@ -408,7 +406,6 @@ a:active {
 }
 
 .skill-cover h3{
-  font-family: "hind", sans-serif;
   font-size: 35px;
   margin-bottom: 40px;
 }
@@ -425,7 +422,6 @@ a:active {
 
 .skill-item h2 {
     color: #fff;
-    font-size: "hind", sans-serif;
     font-size: 35px;
     font-weight: 700;
     margin-top: 15px;
@@ -434,7 +430,6 @@ a:active {
 
 .skill-item p {
     color: #fff;
-    font-family: "hind", sans-serif;
     /*text-transform: uppercase;*/
     font-weight: 300;
     margin-top: 0;
